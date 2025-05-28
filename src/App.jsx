@@ -8,7 +8,7 @@ function App() {
       <div className="button-group">
         <a href="https://aquinter10.github.io/equation-methods" className="button">Capitulo 1</a>
         <a href="https://usuario.github.io/proyecto2" className="button">Proyecto 2</a>
-        <a href="https://usuario.github.io/proyecto3" className="button">Proyecto 3</a>
+        <a href="https://aquinter10.github.io/interpolation-methods/" className="button">Capitulo 3</a>
       </div>
     </div>
   );
